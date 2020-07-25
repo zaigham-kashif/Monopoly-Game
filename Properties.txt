@@ -1,0 +1,120 @@
+3
+GO
+1 1
+1
+Johar Town A
+2 200 80 2 0 0 JOHAR
+3
+Community Chest
+3 2
+1
+Johar Town B
+4 250 90 2 0 0 JOHAR
+3
+Land Tax
+5 5
+2
+Metro Station
+6 2000 200 4 0 0 STATION
+1
+Iqbal Town A
+7 250 60 3 0 0 IQBAL
+3
+Chance
+8 3
+1
+Iqbal Town B
+9 300 70 3 0 0 IQBAL
+1
+Iqbal Town C Kareem Block
+10 400 100 3 0 0 IQBAL
+1
+Faisal Town A
+11 300 100 3 0 0 FAISAL
+2
+LESCO
+12 5000 450 4 0 0 UTILITY
+3
+Jail
+13 8
+1
+Faisal Town B
+14 400 130 3 0 0 FAISAL
+1
+Faisal Town C
+15 400 130 3 0 0 FAISAL
+2
+Bus Station
+16 2000 200 4 0 0 STATION
+1
+Model Town A
+17 800 200 3 0 0 MODEL
+3
+Community Chest
+18 2
+1
+Model Town B
+19 850 250 3 0 0 MODEL
+2
+PTCL
+20 8000 500 4 0 0 UTILITY
+3
+Parking
+21 7
+1
+Model Town C Link Road
+22 2000 500 3 0 0 MODEL
+3
+Chance
+23 3
+1
+Gulberg II A
+24 1000 300 3 0 0 GULBERG
+1
+Gulberg II B
+25 1200 350 3 0 0 GULBERG
+2
+Railway Station
+26 2500 350 4 0 0 STATION
+1
+Gulberg II C Liberty
+27 2500 600 3 0 0 GULBERG
+1
+DHA A
+28 2000 500 3 0 0 DHA
+2
+WASA
+29 4000 400 4 0 0 UTILITY
+1
+DHA B
+30 2000 500 3 0 0 DHA
+1
+DHA Y Block
+31 2500 1000 3 0 0 DHA
+2
+SUI
+32 2500 350 4 0 0 UTILITY
+3
+Got to Jail
+33 4
+3
+Community Chest
+34 2
+1
+Bahria Town A
+35 2500 800 3 0 0 BAHRIA
+2
+Orange Train
+36 2500 350 4 0 0 STATION
+3
+Chance
+37 3
+1
+Bahria Town B
+38 3000 900 3 0 0 BAHRIA
+3
+Property Tax
+39 6
+1
+Bahria Town C
+40 3000 1000 3 0 0 BAHRIA
